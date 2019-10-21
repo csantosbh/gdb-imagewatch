@@ -1,3 +1,6 @@
+# :warning: DEVELOPMENT MOVED TO OPEN IMAGE DEBUGGER (SEE LINK BELOW) :warning:
+[OpenImageDebugger](https://github.com/openimagedebugger/openimagedebugger)
+
 [![Build Status](https://cloud.drone.io/api/badges/csantosbh/gdb-imagewatch/status.svg)](https://cloud.drone.io/csantosbh/gdb-imagewatch)
 [![Build Status](https://travis-ci.com/csantosbh/gdb-imagewatch.svg?branch=master)](https://travis-ci.com/csantosbh/gdb-imagewatch)
 
